@@ -131,12 +131,12 @@ body.dark-mode .hero-section {
     margin-bottom: 60px;
     background: #f1f1f1;
     padding-left: 20px;
-    padding-right: 0px;
+    padding-right: 20px;
     padding-top: 2px;
     padding-bottom: 2px;
     border-radius: 8px;
     width: 100%;
-    max-width: 500px;
+    max-width: 550px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
